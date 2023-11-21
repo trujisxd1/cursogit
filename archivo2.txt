@@ -7,4 +7,8 @@ aa
 
 pruebas en rama B
 
+<<<<<<< HEAD
 prueba en git nube
+=======
+pruebas rama b en la nube
+>>>>>>> ramaB
