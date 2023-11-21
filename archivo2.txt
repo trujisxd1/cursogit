@@ -8,9 +8,17 @@ aa
 pruebas en rama B
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 prueba en git nube
 =======
 pruebas rama b en la nube
 >>>>>>> ramaB
 
 push desde rama b
+=======
+pruebas rama b en la nube
+
+ramaB
+
+tengo hambre
+>>>>>>> ramaB
